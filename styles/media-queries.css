@@ -1,0 +1,16 @@
+@media screen and (max-width: 413px) {
+    section#redes-sociais {
+        text-align: center;
+        display: flex;
+    }
+
+    section#telefone {
+        top: 53%;
+    }
+
+    section#redes-sociais img {
+        width: 40px;
+        
+    }
+    
+}
