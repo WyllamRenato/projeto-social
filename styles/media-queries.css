@@ -14,3 +14,11 @@
     }
     
 }
+@media screen and (max-width: 393px) {
+   
+    section#redes-sociais img {
+        width: 45px;
+        
+    }
+
+}
